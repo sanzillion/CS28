@@ -3,6 +3,10 @@
   background-image: url("../img/apo.jpg");
 }
 
+.bg{
+  background-color: #1A1B3B;
+}
+
 .bg-gray{
   background-color: #DFDFDF;
 }
@@ -36,4 +40,20 @@
 
 .btn.btn-square {
   border-radius: 0;
+}
+
+.interface{
+  background-color: #F5C55E;
+  height: 400px;
+  width: 100%;
+}
+
+.thebox{
+  padding-bottom: 100px;
+  padding-top: 70px;
+  margin-top: 50px;
+}
+
+.box{
+  border: 10px solid #FFFEAA;
 }
